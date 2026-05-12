@@ -1,0 +1,521 @@
+semana,fecha_inicio_semana,trimestre,programa,genero,canal,horario,franja_horaria,temporada,episodio,rating,share_pct,audiencia_millones,rating_azteca,rating_canal5,demo_18_34_pct,demo_35_54_pct,demo_55plus_pct
+1,2024-01-01,Q1,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,1,1,8.35,46.18,11.53,6.41,2.05,20.5,29.1,50.4
+1,2024-01-01,Q1,Hoy,Magazine,Las Estrellas,09:00,Matutino,1,1,5.03,44.83,7.1,3.01,1.51,22.8,26.5,50.7
+1,2024-01-01,Q1,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,1,1,3.26,25.41,4.5,5.03,1.76,31.8,25.5,42.7
+1,2024-01-01,Q1,Exatlón México,Reality,TUDN,19:30,Prime Time,1,1,6.63,41.64,9.08,5.44,1.82,24.4,32.6,43.0
+1,2024-01-01,Q1,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,1,1,7.74,44.41,10.48,5.23,1.99,31.2,35.7,33.1
+1,2024-01-01,Q1,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,1,1,2.13,42.14,3.03,1.26,0.74,24.4,33.8,41.8
+1,2024-01-01,Q1,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,1,1,4.72,51.61,6.37,1.08,0.96,35.2,27.4,37.4
+1,2024-01-01,Q1,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,1,1,5.73,36.65,6.95,5.27,2.14,26.8,27.3,45.9
+1,2024-01-01,Q1,Fútbol Total,Deportes,TUDN,21:00,Prime Time,1,1,5.92,37.45,7.95,5.68,1.8,22.0,30.7,47.3
+1,2024-01-01,Q1,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,1,1,4.08,48.86,5.93,2.94,0.75,36.9,34.1,29.0
+2,2024-01-08,Q1,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,1,2,8.29,46.32,10.92,6.04,2.31,34.6,33.0,32.4
+2,2024-01-08,Q1,Hoy,Magazine,Las Estrellas,09:00,Matutino,1,2,5.38,51.93,7.14,3.33,1.6,21.6,29.4,49.0
+2,2024-01-08,Q1,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,1,2,3.26,25.14,3.96,5.32,2.26,31.5,35.6,32.9
+2,2024-01-08,Q1,Exatlón México,Reality,TUDN,19:30,Prime Time,1,2,7.2,42.44,10.12,5.94,1.97,33.2,36.6,30.2
+2,2024-01-08,Q1,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,1,2,7.4,41.18,9.98,6.43,1.58,37.1,38.0,24.9
+2,2024-01-08,Q1,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,1,2,2.35,39.87,3.05,1.54,0.4,25.6,34.5,39.9
+2,2024-01-08,Q1,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,1,2,4.84,56.82,7.13,1.29,0.64,23.3,30.3,46.4
+2,2024-01-08,Q1,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,1,2,5.96,36.75,8.18,5.59,2.2,34.0,35.3,30.7
+2,2024-01-08,Q1,Fútbol Total,Deportes,TUDN,21:00,Prime Time,1,2,5.72,35.74,7.44,5.67,2.02,32.2,27.6,40.2
+2,2024-01-08,Q1,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,1,2,3.86,45.37,5.32,2.8,1.05,23.3,30.7,46.0
+3,2024-01-15,Q1,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,1,3,7.76,44.73,10.34,5.48,2.07,33.7,37.6,28.7
+3,2024-01-15,Q1,Hoy,Magazine,Las Estrellas,09:00,Matutino,1,3,5.21,45.1,7.1,3.3,1.39,24.6,25.5,49.9
+3,2024-01-15,Q1,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,1,3,2.83,22.43,3.84,6.79,2.06,28.0,26.0,46.0
+3,2024-01-15,Q1,Exatlón México,Reality,TUDN,19:30,Prime Time,1,3,6.9,41.36,8.85,6.26,2.25,24.3,32.5,43.2
+3,2024-01-15,Q1,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,1,3,7.55,44.69,10.75,5.24,2.22,22.9,27.1,50.0
+3,2024-01-15,Q1,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,1,3,2.76,47.88,3.5,1.54,0.7,34.9,31.4,33.7
+3,2024-01-15,Q1,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,1,3,4.44,55.68,5.57,1.69,0.62,27.2,40.0,32.8
+3,2024-01-15,Q1,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,1,3,6.55,41.04,8.71,6.13,1.85,30.2,26.4,43.4
+3,2024-01-15,Q1,Fútbol Total,Deportes,TUDN,21:00,Prime Time,1,3,5.76,35.53,7.13,5.87,2.15,37.2,27.3,35.5
+3,2024-01-15,Q1,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,1,3,4.53,53.85,5.59,3.01,1.16,35.8,31.3,32.9
+4,2024-01-22,Q1,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,1,4,8.25,45.27,10.87,5.89,2.16,27.7,33.9,38.4
+4,2024-01-22,Q1,Hoy,Magazine,Las Estrellas,09:00,Matutino,1,4,4.9,43.62,6.8,2.72,1.53,30.6,39.6,29.8
+4,2024-01-22,Q1,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,1,4,3.1,23.32,4.65,5.47,2.29,33.6,26.7,39.7
+4,2024-01-22,Q1,Exatlón México,Reality,TUDN,19:30,Prime Time,1,4,6.94,40.46,10.13,5.7,1.95,35.4,30.1,34.5
+4,2024-01-22,Q1,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,1,4,7.06,42.91,9.5,5.94,2.16,28.7,31.8,39.5
+4,2024-01-22,Q1,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,1,4,2.35,40.13,3.75,1.39,1.34,39.4,36.4,24.2
+4,2024-01-22,Q1,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,1,4,5.07,62.27,6.42,1.69,0.76,37.4,29.5,33.1
+4,2024-01-22,Q1,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,1,4,6.3,38.56,8.48,5.46,1.8,23.1,36.4,40.5
+4,2024-01-22,Q1,Fútbol Total,Deportes,TUDN,21:00,Prime Time,1,4,5.55,35.18,7.58,5.3,2.13,32.0,32.3,35.7
+4,2024-01-22,Q1,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,1,4,4.4,52.02,6.0,2.82,0.87,38.6,38.2,23.2
+5,2024-01-29,Q1,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,1,5,8.34,45.28,11.69,6.22,1.82,24.8,28.6,46.6
+5,2024-01-29,Q1,Hoy,Magazine,Las Estrellas,09:00,Matutino,1,5,4.8,45.9,6.69,3.41,2.17,21.7,32.3,46.0
+5,2024-01-29,Q1,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,1,5,3.56,25.56,5.19,6.06,2.04,39.6,33.0,27.4
+5,2024-01-29,Q1,Exatlón México,Reality,TUDN,19:30,Prime Time,1,5,7.0,42.65,9.36,5.61,2.12,22.6,32.1,45.3
+5,2024-01-29,Q1,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,1,5,7.97,47.34,11.03,5.15,2.01,25.3,38.1,36.6
+5,2024-01-29,Q1,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,1,5,2.44,40.86,2.86,1.21,0.94,39.3,38.9,21.8
+5,2024-01-29,Q1,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,1,5,4.66,56.36,6.31,1.24,1.23,34.3,31.0,34.7
+5,2024-01-29,Q1,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,1,5,6.31,41.8,8.59,5.54,2.27,28.8,32.8,38.4
+5,2024-01-29,Q1,Fútbol Total,Deportes,TUDN,21:00,Prime Time,1,5,5.44,35.83,7.55,6.15,1.86,25.0,26.0,49.0
+5,2024-01-29,Q1,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,1,5,4.18,49.51,5.38,3.51,1.18,31.8,28.5,39.7
+6,2024-02-05,Q1,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,1,6,7.78,43.13,11.35,6.21,1.8,20.1,35.6,44.3
+6,2024-02-05,Q1,Hoy,Magazine,Las Estrellas,09:00,Matutino,1,6,4.93,44.97,6.37,3.38,1.55,24.6,38.6,36.8
+6,2024-02-05,Q1,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,1,6,3.14,24.32,2.94,5.39,2.05,21.4,28.6,50.0
+6,2024-02-05,Q1,Exatlón México,Reality,TUDN,19:30,Prime Time,1,6,6.46,37.83,8.15,5.62,2.13,24.3,27.0,48.7
+6,2024-02-05,Q1,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,1,6,7.77,46.11,10.95,5.8,1.9,24.9,32.1,43.0
+6,2024-02-05,Q1,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,1,6,2.25,38.46,2.8,1.53,0.72,23.8,26.5,49.7
+6,2024-02-05,Q1,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,1,6,4.96,56.42,7.33,1.0,1.23,27.1,31.2,41.7
+6,2024-02-05,Q1,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,1,6,5.48,36.04,7.63,5.91,1.98,33.5,39.8,26.7
+6,2024-02-05,Q1,Fútbol Total,Deportes,TUDN,21:00,Prime Time,1,6,5.61,37.0,7.34,6.14,2.17,21.2,35.9,42.9
+6,2024-02-05,Q1,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,1,6,4.07,45.12,5.62,3.13,1.23,25.0,27.9,47.1
+7,2024-02-12,Q1,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,1,7,8.0,45.66,11.1,6.04,2.1,22.8,27.8,49.4
+7,2024-02-12,Q1,Hoy,Magazine,Las Estrellas,09:00,Matutino,1,7,5.17,46.12,6.74,3.42,1.36,25.0,38.8,36.2
+7,2024-02-12,Q1,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,1,7,3.36,24.51,4.87,6.13,2.36,36.2,37.8,26.0
+7,2024-02-12,Q1,Exatlón México,Reality,TUDN,19:30,Prime Time,1,7,6.77,40.03,9.02,5.93,2.07,21.0,40.0,39.0
+7,2024-02-12,Q1,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,1,7,7.29,41.93,9.51,6.64,1.9,39.4,38.9,21.7
+7,2024-02-12,Q1,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,1,7,1.72,29.66,2.64,1.75,0.93,23.3,32.3,44.4
+7,2024-02-12,Q1,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,1,7,4.87,61.48,6.6,1.23,1.0,37.3,38.5,24.2
+7,2024-02-12,Q1,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,1,7,6.02,39.07,8.0,5.97,1.99,27.6,39.8,32.6
+7,2024-02-12,Q1,Fútbol Total,Deportes,TUDN,21:00,Prime Time,1,7,5.49,35.62,7.51,5.6,2.01,38.5,36.8,24.7
+7,2024-02-12,Q1,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,1,7,4.4,53.82,5.38,2.51,1.06,28.5,39.4,32.1
+8,2024-02-19,Q1,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,1,8,8.35,44.21,11.62,5.74,2.1,23.1,29.5,47.4
+8,2024-02-19,Q1,Hoy,Magazine,Las Estrellas,09:00,Matutino,1,8,4.76,46.89,6.31,3.33,1.23,31.6,33.1,35.3
+8,2024-02-19,Q1,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,1,8,3.58,25.31,4.79,5.96,2.24,21.1,33.8,45.1
+8,2024-02-19,Q1,Exatlón México,Reality,TUDN,19:30,Prime Time,1,8,6.63,40.08,8.96,5.84,1.95,21.1,32.6,46.3
+8,2024-02-19,Q1,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,1,8,7.26,41.94,10.38,6.18,2.53,21.4,26.0,52.6
+8,2024-02-19,Q1,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,1,8,1.86,32.09,2.58,2.38,0.64,28.1,39.1,32.8
+8,2024-02-19,Q1,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,1,8,4.61,59.02,5.37,1.29,0.65,31.6,25.6,42.8
+8,2024-02-19,Q1,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,1,8,6.1,37.96,8.99,6.18,1.98,28.4,33.8,37.8
+8,2024-02-19,Q1,Fútbol Total,Deportes,TUDN,21:00,Prime Time,1,8,5.47,35.25,6.86,6.53,2.34,38.7,28.1,33.2
+8,2024-02-19,Q1,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,1,8,4.19,53.49,6.2,2.75,1.35,24.8,30.9,44.3
+9,2024-02-26,Q1,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,1,9,7.79,45.05,10.52,5.82,2.01,29.1,38.9,32.0
+9,2024-02-26,Q1,Hoy,Magazine,Las Estrellas,09:00,Matutino,1,9,5.25,51.9,7.03,3.25,1.5,20.2,34.3,45.5
+9,2024-02-26,Q1,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,1,9,3.59,27.99,4.23,6.31,2.17,21.5,28.2,50.3
+9,2024-02-26,Q1,Exatlón México,Reality,TUDN,19:30,Prime Time,1,9,6.63,38.53,9.0,6.27,2.11,22.6,30.2,47.2
+9,2024-02-26,Q1,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,1,9,7.86,42.4,10.51,6.19,2.23,37.6,30.5,31.9
+9,2024-02-26,Q1,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,1,9,2.49,45.21,3.64,1.92,0.45,28.8,33.1,38.1
+9,2024-02-26,Q1,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,1,9,4.58,64.87,6.08,1.79,1.1,32.2,39.8,28.0
+9,2024-02-26,Q1,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,1,9,6.07,36.38,7.64,5.12,2.09,33.4,33.3,33.3
+9,2024-02-26,Q1,Fútbol Total,Deportes,TUDN,21:00,Prime Time,1,9,5.77,37.1,6.96,5.76,1.84,38.8,27.0,34.2
+9,2024-02-26,Q1,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,1,9,4.47,48.83,5.66,2.59,0.89,37.8,36.1,26.1
+10,2024-03-04,Q1,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,1,10,8.11,44.11,10.55,6.0,1.99,25.4,34.1,40.5
+10,2024-03-04,Q1,Hoy,Magazine,Las Estrellas,09:00,Matutino,1,10,4.91,47.87,6.21,2.98,1.16,24.1,34.5,41.4
+10,2024-03-04,Q1,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,1,10,4.02,29.05,5.15,5.89,2.08,30.1,28.8,41.1
+10,2024-03-04,Q1,Exatlón México,Reality,TUDN,19:30,Prime Time,1,10,6.67,39.76,9.31,5.59,1.98,21.8,31.4,46.8
+10,2024-03-04,Q1,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,1,10,7.28,45.7,9.22,6.35,2.43,20.9,30.0,49.1
+10,2024-03-04,Q1,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,1,10,2.01,34.67,2.84,2.73,1.02,32.7,28.9,38.4
+10,2024-03-04,Q1,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,1,10,4.91,61.9,5.99,1.58,0.65,31.0,31.4,37.6
+10,2024-03-04,Q1,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,1,10,5.62,37.23,7.15,6.47,2.28,22.2,39.2,38.6
+10,2024-03-04,Q1,Fútbol Total,Deportes,TUDN,21:00,Prime Time,1,10,5.65,34.9,7.66,5.46,2.4,30.9,37.5,31.6
+10,2024-03-04,Q1,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,1,10,4.42,52.61,5.89,2.45,0.82,28.6,25.6,45.8
+11,2024-03-11,Q1,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,1,11,8.56,44.32,11.0,6.03,1.97,38.0,36.9,25.1
+11,2024-03-11,Q1,Hoy,Magazine,Las Estrellas,09:00,Matutino,1,11,4.9,48.98,6.27,3.22,1.23,38.0,28.2,33.8
+11,2024-03-11,Q1,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,1,11,3.45,26.09,4.56,5.44,1.98,33.3,30.3,36.4
+11,2024-03-11,Q1,Exatlón México,Reality,TUDN,19:30,Prime Time,1,11,7.09,41.36,9.18,5.84,2.25,39.5,36.2,24.3
+11,2024-03-11,Q1,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,1,11,6.73,40.06,8.82,6.03,1.95,37.3,39.6,23.1
+11,2024-03-11,Q1,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,1,11,1.54,36.44,2.1,1.6,0.62,37.6,25.4,37.0
+11,2024-03-11,Q1,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,1,11,5.14,65.82,6.91,1.02,0.67,35.6,31.2,33.2
+11,2024-03-11,Q1,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,1,11,6.05,39.24,8.01,6.2,1.98,25.3,36.8,37.9
+11,2024-03-11,Q1,Fútbol Total,Deportes,TUDN,21:00,Prime Time,1,11,5.89,38.94,8.16,6.38,1.61,27.7,25.6,46.7
+11,2024-03-11,Q1,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,1,11,4.1,46.13,5.45,2.95,0.98,24.4,37.2,38.4
+12,2024-03-18,Q1,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,1,12,8.32,46.11,11.7,5.9,2.17,27.0,37.3,35.7
+12,2024-03-18,Q1,Hoy,Magazine,Las Estrellas,09:00,Matutino,1,12,4.92,48.83,6.47,3.36,1.32,24.5,34.9,40.6
+12,2024-03-18,Q1,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,1,12,3.52,24.52,5.1,5.67,2.34,26.6,38.0,35.4
+12,2024-03-18,Q1,Exatlón México,Reality,TUDN,19:30,Prime Time,1,12,6.75,43.46,8.71,5.05,2.03,27.0,32.6,40.4
+12,2024-03-18,Q1,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,1,12,7.39,40.99,10.11,5.71,2.27,38.8,26.7,34.5
+12,2024-03-18,Q1,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,1,12,1.46,28.75,2.28,0.91,1.03,23.6,39.4,37.0
+12,2024-03-18,Q1,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,1,12,5.06,60.58,7.08,2.41,0.84,20.8,33.9,45.3
+12,2024-03-18,Q1,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,1,12,6.24,39.47,8.08,6.13,1.93,34.6,29.7,35.7
+12,2024-03-18,Q1,Fútbol Total,Deportes,TUDN,21:00,Prime Time,1,12,5.66,37.19,7.83,5.93,2.31,27.7,33.6,38.7
+12,2024-03-18,Q1,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,1,12,4.19,48.98,5.26,2.62,1.18,20.9,31.5,47.6
+13,2024-03-25,Q1,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,1,13,8.33,47.14,11.59,6.34,2.18,27.3,26.0,46.7
+13,2024-03-25,Q1,Hoy,Magazine,Las Estrellas,09:00,Matutino,1,13,5.72,53.29,7.22,2.49,1.7,32.5,35.0,32.5
+13,2024-03-25,Q1,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,1,13,3.56,26.7,4.92,5.35,2.59,34.4,29.5,36.1
+13,2024-03-25,Q1,Exatlón México,Reality,TUDN,19:30,Prime Time,1,13,6.92,41.25,9.63,5.99,2.14,33.3,29.9,36.8
+13,2024-03-25,Q1,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,1,13,7.15,41.6,10.41,6.34,2.42,31.1,27.9,41.0
+13,2024-03-25,Q1,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,1,13,1.97,39.6,2.61,1.52,1.02,33.5,38.5,28.0
+13,2024-03-25,Q1,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,1,13,4.45,51.06,5.94,1.33,0.6,28.1,37.5,34.4
+13,2024-03-25,Q1,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,1,13,5.68,35.74,7.7,5.28,1.84,25.7,31.4,42.9
+13,2024-03-25,Q1,Fútbol Total,Deportes,TUDN,21:00,Prime Time,1,13,5.67,34.78,7.55,5.2,2.05,29.3,31.6,39.1
+13,2024-03-25,Q1,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,1,13,4.17,56.96,5.61,2.71,1.24,30.2,36.9,32.9
+14,2024-04-01,Q2,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,2,1,8.65,45.49,11.57,5.36,2.61,33.2,29.3,37.5
+14,2024-04-01,Q2,Hoy,Magazine,Las Estrellas,09:00,Matutino,2,1,5.18,48.93,6.98,3.28,1.37,21.9,39.3,38.8
+14,2024-04-01,Q2,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,2,1,3.18,25.03,4.28,5.58,1.96,33.5,28.4,38.1
+14,2024-04-01,Q2,Exatlón México,Reality,TUDN,19:30,Prime Time,2,1,6.74,41.07,9.7,4.74,2.32,22.9,25.7,51.4
+14,2024-04-01,Q2,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,2,1,7.77,47.0,10.35,5.65,1.82,32.2,36.5,31.3
+14,2024-04-01,Q2,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,2,1,1.89,39.09,3.25,1.87,1.05,28.3,34.4,37.3
+14,2024-04-01,Q2,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,2,1,5.05,63.24,6.61,1.7,0.56,34.4,30.8,34.8
+14,2024-04-01,Q2,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,2,1,6.39,39.76,8.48,6.08,2.19,24.9,34.8,40.3
+14,2024-04-01,Q2,Fútbol Total,Deportes,TUDN,21:00,Prime Time,2,1,5.52,34.72,7.02,6.05,2.22,37.9,37.9,24.2
+14,2024-04-01,Q2,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,2,1,4.15,47.09,5.1,3.17,1.06,35.6,28.3,36.1
+15,2024-04-08,Q2,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,2,2,8.16,44.15,10.73,5.24,1.79,21.0,28.7,50.3
+15,2024-04-08,Q2,Hoy,Magazine,Las Estrellas,09:00,Matutino,2,2,5.21,52.26,7.74,2.37,1.74,29.1,37.0,33.9
+15,2024-04-08,Q2,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,2,2,3.51,26.47,4.52,5.96,2.09,39.0,38.4,22.6
+15,2024-04-08,Q2,Exatlón México,Reality,TUDN,19:30,Prime Time,2,2,7.23,42.31,9.82,5.65,2.09,36.6,33.2,30.2
+15,2024-04-08,Q2,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,2,2,7.29,44.9,9.3,6.1,2.13,34.9,32.1,33.0
+15,2024-04-08,Q2,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,2,2,2.07,37.1,2.93,1.28,0.64,35.0,37.6,27.4
+15,2024-04-08,Q2,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,2,2,5.03,62.56,6.95,0.82,1.01,35.3,32.8,31.9
+15,2024-04-08,Q2,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,2,2,6.16,38.29,8.71,6.47,2.3,25.5,26.2,48.3
+15,2024-04-08,Q2,Fútbol Total,Deportes,TUDN,21:00,Prime Time,2,2,5.23,36.34,6.81,5.81,2.2,24.7,30.0,45.3
+15,2024-04-08,Q2,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,2,2,4.02,46.67,5.12,2.56,0.82,22.8,28.5,48.7
+16,2024-04-15,Q2,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,2,3,7.8,46.09,10.14,6.22,1.91,34.1,26.0,39.9
+16,2024-04-15,Q2,Hoy,Magazine,Las Estrellas,09:00,Matutino,2,3,5.97,51.39,8.13,2.86,1.54,26.6,32.0,41.4
+16,2024-04-15,Q2,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,2,3,3.18,24.38,5.32,5.76,2.33,24.1,31.3,44.6
+16,2024-04-15,Q2,Exatlón México,Reality,TUDN,19:30,Prime Time,2,3,6.49,39.88,9.47,5.55,2.46,37.1,36.5,26.4
+16,2024-04-15,Q2,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,2,3,7.62,44.46,10.54,6.19,2.22,29.5,39.1,31.4
+16,2024-04-15,Q2,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,2,3,1.66,34.61,2.14,1.47,0.92,35.1,37.8,27.1
+16,2024-04-15,Q2,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,2,3,5.03,63.98,6.94,1.74,0.91,30.8,36.0,33.2
+16,2024-04-15,Q2,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,2,3,6.33,38.25,8.73,5.77,1.77,29.8,29.1,41.1
+16,2024-04-15,Q2,Fútbol Total,Deportes,TUDN,21:00,Prime Time,2,3,5.91,37.37,8.09,5.29,1.88,20.6,30.0,49.4
+16,2024-04-15,Q2,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,2,3,4.68,51.09,6.59,2.81,1.11,34.5,37.6,27.9
+17,2024-04-22,Q2,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,2,4,8.35,46.67,11.31,5.62,2.01,39.6,33.0,27.4
+17,2024-04-22,Q2,Hoy,Magazine,Las Estrellas,09:00,Matutino,2,4,5.09,48.01,6.68,3.7,1.22,31.8,34.9,33.3
+17,2024-04-22,Q2,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,2,4,3.29,25.56,5.02,5.88,2.31,32.9,27.0,40.1
+17,2024-04-22,Q2,Exatlón México,Reality,TUDN,19:30,Prime Time,2,4,6.46,39.41,9.08,5.83,2.31,23.6,28.9,47.5
+17,2024-04-22,Q2,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,2,4,7.26,40.87,10.72,5.65,2.01,24.2,29.9,45.9
+17,2024-04-22,Q2,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,2,4,2.57,37.46,3.26,1.33,0.74,25.6,39.3,35.1
+17,2024-04-22,Q2,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,2,4,4.58,60.1,5.78,1.19,0.79,25.0,26.2,48.8
+17,2024-04-22,Q2,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,2,4,6.07,36.47,7.8,6.19,2.06,35.0,25.8,39.2
+17,2024-04-22,Q2,Fútbol Total,Deportes,TUDN,21:00,Prime Time,2,4,5.78,36.31,7.35,5.95,2.13,24.5,26.0,49.5
+17,2024-04-22,Q2,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,2,4,4.38,48.53,6.9,2.54,0.99,35.1,39.2,25.7
+18,2024-04-29,Q2,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,2,5,7.87,45.25,10.37,6.28,2.38,36.8,34.3,28.9
+18,2024-04-29,Q2,Hoy,Magazine,Las Estrellas,09:00,Matutino,2,5,4.84,49.27,6.72,2.98,1.53,22.5,35.0,42.5
+18,2024-04-29,Q2,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,2,5,3.4,27.33,5.21,6.52,1.98,29.3,28.8,41.9
+18,2024-04-29,Q2,Exatlón México,Reality,TUDN,19:30,Prime Time,2,5,6.8,40.61,9.31,6.06,2.5,23.4,34.1,42.5
+18,2024-04-29,Q2,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,2,5,7.12,43.1,9.06,5.51,2.09,35.6,27.5,36.9
+18,2024-04-29,Q2,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,2,5,2.67,45.17,3.69,1.49,1.04,22.2,25.4,52.4
+18,2024-04-29,Q2,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,2,5,5.74,63.96,7.55,1.92,0.94,31.5,38.6,29.9
+18,2024-04-29,Q2,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,2,5,6.76,40.11,8.98,6.04,2.32,27.9,35.7,36.4
+18,2024-04-29,Q2,Fútbol Total,Deportes,TUDN,21:00,Prime Time,2,5,5.85,36.78,8.32,6.27,2.38,31.8,37.5,30.7
+18,2024-04-29,Q2,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,2,5,4.42,50.02,6.03,3.28,0.94,22.0,36.6,41.4
+19,2024-05-06,Q2,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,2,6,8.16,45.94,11.03,6.31,2.14,35.9,33.5,30.6
+19,2024-05-06,Q2,Hoy,Magazine,Las Estrellas,09:00,Matutino,2,6,5.02,51.54,7.08,3.46,1.83,26.9,31.4,41.7
+19,2024-05-06,Q2,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,2,6,3.37,25.38,4.65,6.43,2.08,21.4,34.7,43.9
+19,2024-05-06,Q2,Exatlón México,Reality,TUDN,19:30,Prime Time,2,6,6.76,40.09,9.2,5.62,2.14,37.0,37.3,25.7
+19,2024-05-06,Q2,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,2,6,7.49,44.65,10.16,5.52,2.34,28.7,30.4,40.9
+19,2024-05-06,Q2,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,2,6,1.68,34.28,2.42,2.13,0.79,34.1,31.5,34.4
+19,2024-05-06,Q2,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,2,6,4.82,52.05,5.93,0.62,0.89,32.3,38.8,28.9
+19,2024-05-06,Q2,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,2,6,6.06,39.48,8.46,5.9,1.99,29.3,37.4,33.3
+19,2024-05-06,Q2,Fútbol Total,Deportes,TUDN,21:00,Prime Time,2,6,5.42,34.62,7.58,5.76,2.47,26.4,28.7,44.9
+19,2024-05-06,Q2,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,2,6,3.9,51.07,4.99,2.78,1.15,25.6,31.8,42.6
+20,2024-05-13,Q2,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,2,7,8.28,45.35,10.68,6.38,2.08,31.4,35.0,33.6
+20,2024-05-13,Q2,Hoy,Magazine,Las Estrellas,09:00,Matutino,2,7,5.53,49.81,7.65,3.43,1.49,20.6,37.8,41.6
+20,2024-05-13,Q2,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,2,7,3.53,25.22,4.84,6.08,2.08,29.8,30.3,39.9
+20,2024-05-13,Q2,Exatlón México,Reality,TUDN,19:30,Prime Time,2,7,7.36,43.75,10.66,5.78,1.81,26.8,38.2,35.0
+20,2024-05-13,Q2,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,2,7,7.48,44.16,10.43,5.54,2.01,31.1,32.7,36.2
+20,2024-05-13,Q2,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,2,7,1.49,31.28,1.04,0.87,0.95,21.7,35.8,42.5
+20,2024-05-13,Q2,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,2,7,5.23,58.48,6.67,1.48,0.8,31.1,28.6,40.3
+20,2024-05-13,Q2,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,2,7,5.87,35.75,8.28,5.71,2.11,32.9,32.4,34.7
+20,2024-05-13,Q2,Fútbol Total,Deportes,TUDN,21:00,Prime Time,2,7,5.65,39.16,7.53,5.53,1.9,21.9,28.3,49.8
+20,2024-05-13,Q2,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,2,7,4.13,43.34,5.83,2.57,1.21,26.1,33.7,40.2
+21,2024-05-20,Q2,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,2,8,8.78,46.11,11.88,5.54,2.24,31.1,30.2,38.7
+21,2024-05-20,Q2,Hoy,Magazine,Las Estrellas,09:00,Matutino,2,8,5.32,47.64,7.44,3.62,1.29,27.0,31.8,41.2
+21,2024-05-20,Q2,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,2,8,3.86,28.05,6.04,5.52,2.45,25.0,26.8,48.2
+21,2024-05-20,Q2,Exatlón México,Reality,TUDN,19:30,Prime Time,2,8,6.72,41.5,8.88,5.67,2.18,26.3,36.1,37.6
+21,2024-05-20,Q2,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,2,8,7.31,43.45,9.86,6.66,2.45,23.8,36.1,40.1
+21,2024-05-20,Q2,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,2,8,2.27,39.21,3.11,1.75,0.6,34.5,39.6,25.9
+21,2024-05-20,Q2,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,2,8,4.92,64.86,6.8,1.76,0.7,39.6,37.5,22.9
+21,2024-05-20,Q2,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,2,8,6.69,42.14,8.45,5.89,2.31,24.5,27.7,47.8
+21,2024-05-20,Q2,Fútbol Total,Deportes,TUDN,21:00,Prime Time,2,8,6.09,38.89,8.65,5.78,2.07,34.2,26.9,38.9
+21,2024-05-20,Q2,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,2,8,4.48,48.14,5.42,3.39,1.38,39.5,33.3,27.2
+22,2024-05-27,Q2,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,2,9,7.84,43.95,10.78,5.9,1.99,32.8,36.3,30.9
+22,2024-05-27,Q2,Hoy,Magazine,Las Estrellas,09:00,Matutino,2,9,4.79,47.07,6.94,3.42,1.33,37.5,33.6,28.9
+22,2024-05-27,Q2,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,2,9,3.7,30.64,5.45,5.1,2.03,29.6,30.1,40.3
+22,2024-05-27,Q2,Exatlón México,Reality,TUDN,19:30,Prime Time,2,9,6.32,40.85,9.0,5.61,2.17,25.0,37.9,37.1
+22,2024-05-27,Q2,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,2,9,7.13,41.53,9.66,5.29,2.3,36.4,31.0,32.6
+22,2024-05-27,Q2,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,2,9,1.91,41.24,2.41,2.1,0.97,31.5,35.3,33.2
+22,2024-05-27,Q2,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,2,9,4.69,58.51,6.2,2.33,0.88,23.0,33.4,43.6
+22,2024-05-27,Q2,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,2,9,6.36,38.14,8.68,5.7,2.06,21.7,28.7,49.6
+22,2024-05-27,Q2,Fútbol Total,Deportes,TUDN,21:00,Prime Time,2,9,5.8,37.22,8.12,5.82,2.25,32.1,36.9,31.0
+22,2024-05-27,Q2,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,2,9,4.19,48.0,4.86,3.17,1.17,35.5,30.7,33.8
+23,2024-06-03,Q2,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,2,10,8.68,50.96,12.55,5.74,2.32,25.9,33.8,40.3
+23,2024-06-03,Q2,Hoy,Magazine,Las Estrellas,09:00,Matutino,2,10,4.9,46.2,6.19,2.95,1.78,26.1,34.3,39.6
+23,2024-06-03,Q2,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,2,10,3.27,24.81,4.76,6.0,2.13,39.0,28.1,32.9
+23,2024-06-03,Q2,Exatlón México,Reality,TUDN,19:30,Prime Time,2,10,6.76,38.06,9.1,5.88,2.31,25.3,26.2,48.5
+23,2024-06-03,Q2,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,2,10,7.47,41.82,10.34,5.34,2.43,23.5,26.1,50.4
+23,2024-06-03,Q2,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,2,10,1.71,31.9,2.01,1.47,0.87,28.2,35.3,36.5
+23,2024-06-03,Q2,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,2,10,5.1,57.88,7.53,1.68,0.75,25.8,28.5,45.7
+23,2024-06-03,Q2,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,2,10,6.52,38.55,8.31,6.04,2.24,34.1,31.8,34.1
+23,2024-06-03,Q2,Fútbol Total,Deportes,TUDN,21:00,Prime Time,2,10,5.49,34.36,7.35,5.85,2.07,38.5,36.8,24.7
+23,2024-06-03,Q2,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,2,10,4.21,51.58,5.11,3.44,0.93,28.5,33.2,38.3
+24,2024-06-10,Q2,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,2,11,7.71,46.92,10.15,5.27,2.43,38.2,37.4,24.4
+24,2024-06-10,Q2,Hoy,Magazine,Las Estrellas,09:00,Matutino,2,11,5.29,51.13,8.04,3.59,1.34,21.2,36.9,41.9
+24,2024-06-10,Q2,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,2,11,2.73,19.96,3.13,5.14,2.3,28.8,32.0,39.2
+24,2024-06-10,Q2,Exatlón México,Reality,TUDN,19:30,Prime Time,2,11,7.69,42.29,10.61,6.04,2.27,34.0,39.1,26.9
+24,2024-06-10,Q2,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,2,11,7.7,43.65,10.44,5.77,1.95,28.8,34.0,37.2
+24,2024-06-10,Q2,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,2,11,2.06,43.7,2.74,1.1,0.58,34.7,34.1,31.2
+24,2024-06-10,Q2,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,2,11,4.84,53.56,6.9,0.87,0.6,21.8,39.4,38.8
+24,2024-06-10,Q2,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,2,11,6.24,40.13,8.33,6.02,1.91,40.0,35.1,24.9
+24,2024-06-10,Q2,Fútbol Total,Deportes,TUDN,21:00,Prime Time,2,11,5.86,39.08,7.67,5.93,1.78,31.5,36.4,32.1
+24,2024-06-10,Q2,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,2,11,4.33,49.09,6.07,2.89,1.37,29.4,34.8,35.8
+25,2024-06-17,Q2,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,2,12,8.43,46.79,11.43,6.02,2.11,23.6,33.8,42.6
+25,2024-06-17,Q2,Hoy,Magazine,Las Estrellas,09:00,Matutino,2,12,5.23,50.88,6.8,2.64,1.75,39.4,32.1,28.5
+25,2024-06-17,Q2,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,2,12,3.11,24.75,3.91,6.16,2.04,26.7,35.1,38.2
+25,2024-06-17,Q2,Exatlón México,Reality,TUDN,19:30,Prime Time,2,12,7.01,42.55,9.58,5.47,2.53,26.6,35.4,38.0
+25,2024-06-17,Q2,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,2,12,7.12,41.7,9.87,5.97,2.06,33.3,31.0,35.7
+25,2024-06-17,Q2,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,2,12,2.01,36.33,2.65,1.89,1.24,29.1,29.7,41.2
+25,2024-06-17,Q2,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,2,12,4.85,63.27,6.51,2.53,0.64,22.3,36.6,41.1
+25,2024-06-17,Q2,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,2,12,6.45,37.74,8.49,6.03,2.43,33.2,33.1,33.7
+25,2024-06-17,Q2,Fútbol Total,Deportes,TUDN,21:00,Prime Time,2,12,5.72,37.1,7.49,5.39,1.97,21.1,32.8,46.1
+25,2024-06-17,Q2,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,2,12,4.04,47.21,5.15,2.89,0.79,32.5,36.4,31.1
+26,2024-06-24,Q2,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,2,13,8.09,44.19,10.12,5.95,2.35,25.3,27.0,47.7
+26,2024-06-24,Q2,Hoy,Magazine,Las Estrellas,09:00,Matutino,2,13,4.86,43.8,6.73,2.92,1.39,28.8,35.5,35.7
+26,2024-06-24,Q2,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,2,13,3.48,26.13,4.91,5.43,2.13,20.6,34.5,44.9
+26,2024-06-24,Q2,Exatlón México,Reality,TUDN,19:30,Prime Time,2,13,6.21,38.92,8.02,5.51,2.35,34.2,29.7,36.1
+26,2024-06-24,Q2,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,2,13,7.44,42.41,9.61,5.67,2.34,31.0,26.4,42.6
+26,2024-06-24,Q2,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,2,13,2.09,30.96,2.98,1.58,0.74,29.2,26.8,44.0
+26,2024-06-24,Q2,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,2,13,4.82,58.47,6.79,1.88,0.64,30.0,35.7,34.3
+26,2024-06-24,Q2,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,2,13,5.85,39.71,8.1,5.36,1.67,28.3,32.2,39.5
+26,2024-06-24,Q2,Fútbol Total,Deportes,TUDN,21:00,Prime Time,2,13,5.96,35.05,8.04,6.14,2.12,24.9,33.3,41.8
+26,2024-06-24,Q2,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,2,13,4.38,46.9,5.8,2.91,1.16,23.8,34.0,42.2
+27,2024-07-01,Q3,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,3,1,7.79,43.07,10.45,5.5,2.21,37.3,29.1,33.6
+27,2024-07-01,Q3,Hoy,Magazine,Las Estrellas,09:00,Matutino,3,1,4.96,47.81,6.69,3.63,1.49,26.8,36.8,36.4
+27,2024-07-01,Q3,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,3,1,3.48,25.42,5.25,6.02,2.1,36.4,29.2,34.4
+27,2024-07-01,Q3,Exatlón México,Reality,TUDN,19:30,Prime Time,3,1,6.58,41.52,8.76,5.56,2.06,36.7,33.7,29.6
+27,2024-07-01,Q3,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,3,1,7.51,42.73,10.11,5.99,2.11,37.3,31.7,31.0
+27,2024-07-01,Q3,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,3,1,1.56,33.98,2.05,1.02,0.92,26.9,33.3,39.8
+27,2024-07-01,Q3,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,3,1,5.49,57.19,7.33,2.1,0.83,29.1,29.8,41.1
+27,2024-07-01,Q3,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,3,1,5.84,38.09,7.76,5.64,2.13,39.6,28.6,31.8
+27,2024-07-01,Q3,Fútbol Total,Deportes,TUDN,21:00,Prime Time,3,1,5.9,37.58,8.14,6.28,2.29,24.7,36.6,38.7
+27,2024-07-01,Q3,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,3,1,3.74,53.71,5.42,2.25,1.06,26.4,32.1,41.5
+28,2024-07-08,Q3,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,3,2,8.07,47.56,11.11,6.1,1.98,27.7,35.0,37.3
+28,2024-07-08,Q3,Hoy,Magazine,Las Estrellas,09:00,Matutino,3,2,4.18,44.91,5.8,2.61,1.44,29.9,25.6,44.5
+28,2024-07-08,Q3,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,3,2,3.49,25.7,4.76,5.41,2.34,37.4,38.1,24.5
+28,2024-07-08,Q3,Exatlón México,Reality,TUDN,19:30,Prime Time,3,2,6.94,41.49,9.0,5.62,1.92,22.0,38.7,39.3
+28,2024-07-08,Q3,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,3,2,7.05,39.82,8.97,5.15,2.39,34.4,31.1,34.5
+28,2024-07-08,Q3,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,3,2,1.98,38.48,3.09,1.26,1.17,21.5,36.7,41.8
+28,2024-07-08,Q3,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,3,2,5.24,61.68,7.94,1.26,0.95,26.8,35.4,37.8
+28,2024-07-08,Q3,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,3,2,6.03,36.59,8.77,5.81,1.95,37.0,37.8,25.2
+28,2024-07-08,Q3,Fútbol Total,Deportes,TUDN,21:00,Prime Time,3,2,5.99,38.77,8.89,5.85,2.03,39.1,34.4,26.5
+28,2024-07-08,Q3,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,3,2,4.47,53.88,5.65,3.28,0.97,37.4,25.5,37.1
+29,2024-07-15,Q3,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,3,3,7.66,43.21,10.82,6.09,2.3,24.7,35.3,40.0
+29,2024-07-15,Q3,Hoy,Magazine,Las Estrellas,09:00,Matutino,3,3,5.02,51.7,7.38,3.07,1.35,39.9,36.2,23.9
+29,2024-07-15,Q3,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,3,3,3.89,27.85,5.43,6.67,1.97,39.6,36.4,24.0
+29,2024-07-15,Q3,Exatlón México,Reality,TUDN,19:30,Prime Time,3,3,6.89,41.21,9.41,6.41,2.2,28.9,35.4,35.7
+29,2024-07-15,Q3,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,3,3,7.26,41.26,9.66,5.46,1.89,20.9,36.9,42.2
+29,2024-07-15,Q3,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,3,3,1.57,25.75,1.68,1.41,0.74,27.2,31.5,41.3
+29,2024-07-15,Q3,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,3,3,4.86,55.43,6.91,1.27,0.77,30.6,33.5,35.9
+29,2024-07-15,Q3,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,3,3,6.01,38.32,8.76,6.0,2.25,23.4,26.2,50.4
+29,2024-07-15,Q3,Fútbol Total,Deportes,TUDN,21:00,Prime Time,3,3,6.06,36.85,8.25,5.28,2.18,32.4,28.6,39.0
+29,2024-07-15,Q3,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,3,3,3.98,48.44,5.61,3.3,1.1,24.6,34.6,40.8
+30,2024-07-22,Q3,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,3,4,8.53,44.47,11.61,6.84,2.21,25.1,25.1,49.8
+30,2024-07-22,Q3,Hoy,Magazine,Las Estrellas,09:00,Matutino,3,4,4.72,44.97,6.52,3.72,1.53,38.0,35.2,26.8
+30,2024-07-22,Q3,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,3,4,3.26,26.19,4.32,5.46,1.98,21.5,39.2,39.3
+30,2024-07-22,Q3,Exatlón México,Reality,TUDN,19:30,Prime Time,3,4,7.17,40.27,9.84,5.32,2.19,32.8,31.4,35.8
+30,2024-07-22,Q3,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,3,4,7.87,45.32,10.57,5.81,1.94,29.1,29.5,41.4
+30,2024-07-22,Q3,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,3,4,2.36,40.69,3.35,1.15,0.71,37.1,26.6,36.3
+30,2024-07-22,Q3,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,3,4,5.26,61.35,7.79,1.34,0.84,31.4,33.6,35.0
+30,2024-07-22,Q3,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,3,4,6.56,41.91,8.15,5.19,2.35,20.4,37.5,42.1
+30,2024-07-22,Q3,Fútbol Total,Deportes,TUDN,21:00,Prime Time,3,4,5.7,33.97,7.47,5.87,2.41,25.5,33.5,41.0
+30,2024-07-22,Q3,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,3,4,4.78,46.36,6.94,3.21,1.22,38.2,36.2,25.6
+31,2024-07-29,Q3,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,3,5,8.68,47.68,11.39,5.8,2.07,35.5,28.5,36.0
+31,2024-07-29,Q3,Hoy,Magazine,Las Estrellas,09:00,Matutino,3,5,5.12,47.11,7.29,3.24,1.7,24.4,27.9,47.7
+31,2024-07-29,Q3,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,3,5,3.16,24.57,3.98,5.05,2.08,33.6,35.8,30.6
+31,2024-07-29,Q3,Exatlón México,Reality,TUDN,19:30,Prime Time,3,5,6.56,38.33,9.11,5.39,2.47,32.6,38.6,28.8
+31,2024-07-29,Q3,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,3,5,7.45,42.47,9.97,5.42,2.03,26.2,31.6,42.2
+31,2024-07-29,Q3,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,3,5,2.49,35.92,3.98,1.3,0.58,34.6,26.4,39.0
+31,2024-07-29,Q3,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,3,5,5.09,66.05,7.0,1.44,0.71,26.5,31.2,42.3
+31,2024-07-29,Q3,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,3,5,5.44,35.1,7.13,5.33,1.53,22.6,33.1,44.3
+31,2024-07-29,Q3,Fútbol Total,Deportes,TUDN,21:00,Prime Time,3,5,5.86,35.42,8.58,5.62,1.98,30.6,38.7,30.7
+31,2024-07-29,Q3,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,3,5,4.31,51.86,5.94,3.11,1.35,25.1,37.4,37.5
+32,2024-08-05,Q3,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,3,6,8.42,46.47,11.02,5.47,2.05,39.3,29.4,31.3
+32,2024-08-05,Q3,Hoy,Magazine,Las Estrellas,09:00,Matutino,3,6,5.37,47.83,6.93,3.8,1.35,36.1,32.0,31.9
+32,2024-08-05,Q3,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,3,6,3.29,25.87,3.47,6.15,2.25,22.8,39.5,37.7
+32,2024-08-05,Q3,Exatlón México,Reality,TUDN,19:30,Prime Time,3,6,6.93,41.34,9.56,5.17,1.99,39.3,37.1,23.6
+32,2024-08-05,Q3,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,3,6,7.76,45.83,10.59,5.26,2.19,21.8,30.9,47.3
+32,2024-08-05,Q3,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,3,6,2.15,44.4,3.37,1.21,0.64,30.7,31.8,37.5
+32,2024-08-05,Q3,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,3,6,5.11,55.64,6.49,1.52,0.89,31.7,37.3,31.0
+32,2024-08-05,Q3,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,3,6,6.5,39.66,8.63,5.47,2.12,22.2,28.5,49.3
+32,2024-08-05,Q3,Fútbol Total,Deportes,TUDN,21:00,Prime Time,3,6,5.2,38.41,7.19,6.16,1.63,32.4,39.1,28.5
+32,2024-08-05,Q3,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,3,6,4.13,46.2,6.4,2.81,0.95,38.3,28.3,33.4
+33,2024-08-12,Q3,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,3,7,7.88,42.9,10.38,5.48,2.0,32.7,32.0,35.3
+33,2024-08-12,Q3,Hoy,Magazine,Las Estrellas,09:00,Matutino,3,7,4.98,47.7,7.37,3.33,1.35,33.0,26.8,40.2
+33,2024-08-12,Q3,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,3,7,3.2,26.19,4.67,5.77,2.06,38.9,29.6,31.5
+33,2024-08-12,Q3,Exatlón México,Reality,TUDN,19:30,Prime Time,3,7,7.98,44.51,10.47,5.63,2.33,22.3,28.5,49.2
+33,2024-08-12,Q3,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,3,7,7.1,43.88,9.95,5.53,2.47,27.8,30.6,41.6
+33,2024-08-12,Q3,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,3,7,2.49,43.18,3.87,1.53,0.97,31.7,35.9,32.4
+33,2024-08-12,Q3,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,3,7,5.2,62.83,6.76,1.91,0.73,33.1,37.5,29.4
+33,2024-08-12,Q3,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,3,7,6.17,39.83,8.5,6.63,1.89,38.8,29.2,32.0
+33,2024-08-12,Q3,Fútbol Total,Deportes,TUDN,21:00,Prime Time,3,7,5.89,35.92,7.92,5.98,1.89,24.3,31.7,44.0
+33,2024-08-12,Q3,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,3,7,4.29,49.33,6.19,3.27,1.62,37.1,26.5,36.4
+34,2024-08-19,Q3,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,3,8,8.64,46.44,11.74,5.66,2.17,30.9,39.7,29.4
+34,2024-08-19,Q3,Hoy,Magazine,Las Estrellas,09:00,Matutino,3,8,5.18,48.57,7.52,2.8,1.63,21.2,29.1,49.7
+34,2024-08-19,Q3,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,3,8,3.68,27.42,4.12,5.56,2.36,39.0,37.4,23.6
+34,2024-08-19,Q3,Exatlón México,Reality,TUDN,19:30,Prime Time,3,8,6.57,41.4,8.67,6.14,2.21,33.3,34.6,32.1
+34,2024-08-19,Q3,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,3,8,6.99,42.09,9.28,5.43,2.42,21.0,30.0,49.0
+34,2024-08-19,Q3,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,3,8,1.93,31.96,3.21,1.9,0.71,35.7,28.1,36.2
+34,2024-08-19,Q3,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,3,8,4.86,58.22,6.2,1.63,0.56,31.7,37.2,31.1
+34,2024-08-19,Q3,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,3,8,6.26,39.55,8.53,5.91,2.05,26.6,27.2,46.2
+34,2024-08-19,Q3,Fútbol Total,Deportes,TUDN,21:00,Prime Time,3,8,5.69,37.31,8.03,5.26,2.13,25.5,39.8,34.7
+34,2024-08-19,Q3,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,3,8,4.74,54.23,6.13,3.01,1.14,30.8,37.0,32.2
+35,2024-08-26,Q3,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,3,9,8.03,44.43,11.09,6.24,2.18,33.2,25.4,41.4
+35,2024-08-26,Q3,Hoy,Magazine,Las Estrellas,09:00,Matutino,3,9,4.85,45.81,7.31,3.15,1.21,27.2,36.8,36.0
+35,2024-08-26,Q3,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,3,9,3.85,28.33,4.33,6.14,1.99,20.3,29.0,50.7
+35,2024-08-26,Q3,Exatlón México,Reality,TUDN,19:30,Prime Time,3,9,6.54,39.62,8.91,6.08,2.01,34.8,32.9,32.3
+35,2024-08-26,Q3,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,3,9,7.21,42.71,10.03,6.05,1.91,29.5,36.7,33.8
+35,2024-08-26,Q3,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,3,9,2.35,42.1,3.5,1.65,1.17,29.0,28.3,42.7
+35,2024-08-26,Q3,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,3,9,4.67,58.41,6.3,1.38,0.96,34.5,38.6,26.9
+35,2024-08-26,Q3,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,3,9,5.82,38.56,7.43,6.18,2.44,29.2,39.5,31.3
+35,2024-08-26,Q3,Fútbol Total,Deportes,TUDN,21:00,Prime Time,3,9,5.47,36.02,7.41,6.26,1.91,40.0,37.7,22.3
+35,2024-08-26,Q3,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,3,9,4.52,47.54,6.3,2.88,1.3,33.7,32.4,33.9
+36,2024-09-02,Q3,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,3,10,7.68,43.1,10.11,5.07,2.2,21.5,26.2,52.3
+36,2024-09-02,Q3,Hoy,Magazine,Las Estrellas,09:00,Matutino,3,10,5.33,49.99,7.58,3.84,1.66,21.3,29.1,49.6
+36,2024-09-02,Q3,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,3,10,4.01,28.28,5.44,5.16,2.05,27.6,34.0,38.4
+36,2024-09-02,Q3,Exatlón México,Reality,TUDN,19:30,Prime Time,3,10,6.79,38.41,9.1,5.85,2.21,29.1,34.1,36.8
+36,2024-09-02,Q3,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,3,10,7.06,39.87,9.28,5.88,1.95,35.9,26.7,37.4
+36,2024-09-02,Q3,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,3,10,1.63,33.79,2.19,1.33,0.66,28.6,38.3,33.1
+36,2024-09-02,Q3,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,3,10,4.65,57.35,5.68,1.8,0.82,26.8,31.8,41.4
+36,2024-09-02,Q3,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,3,10,5.88,37.87,7.64,5.93,2.37,34.6,29.7,35.7
+36,2024-09-02,Q3,Fútbol Total,Deportes,TUDN,21:00,Prime Time,3,10,5.34,35.14,7.14,6.07,2.14,33.3,30.6,36.1
+36,2024-09-02,Q3,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,3,10,3.92,47.45,4.97,3.23,1.1,33.7,32.1,34.2
+37,2024-09-09,Q3,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,3,11,8.48,46.47,11.16,5.19,1.74,36.6,26.4,37.0
+37,2024-09-09,Q3,Hoy,Magazine,Las Estrellas,09:00,Matutino,3,11,4.44,44.52,6.2,2.57,1.58,34.9,30.6,34.5
+37,2024-09-09,Q3,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,3,11,3.13,24.07,4.87,6.16,2.05,31.1,33.8,35.1
+37,2024-09-09,Q3,Exatlón México,Reality,TUDN,19:30,Prime Time,3,11,6.78,43.73,8.87,5.72,1.9,33.4,31.2,35.4
+37,2024-09-09,Q3,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,3,11,7.52,43.32,10.06,5.54,2.13,37.4,35.8,26.8
+37,2024-09-09,Q3,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,3,11,2.31,43.88,3.68,1.46,0.8,32.0,30.3,37.7
+37,2024-09-09,Q3,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,3,11,4.94,57.73,7.05,1.61,0.68,23.1,32.2,44.7
+37,2024-09-09,Q3,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,3,11,5.99,39.36,8.13,5.79,2.06,27.0,33.3,39.7
+37,2024-09-09,Q3,Fútbol Total,Deportes,TUDN,21:00,Prime Time,3,11,5.46,38.13,7.15,5.84,2.13,35.3,33.6,31.1
+37,2024-09-09,Q3,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,3,11,4.15,44.71,5.26,3.19,1.19,36.9,39.6,23.5
+38,2024-09-16,Q3,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,3,12,7.7,41.88,9.92,6.17,2.3,32.2,34.9,32.9
+38,2024-09-16,Q3,Hoy,Magazine,Las Estrellas,09:00,Matutino,3,12,5.09,45.5,6.77,3.32,1.45,20.6,29.1,50.3
+38,2024-09-16,Q3,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,3,12,3.49,25.48,5.03,5.1,2.36,38.4,30.3,31.3
+38,2024-09-16,Q3,Exatlón México,Reality,TUDN,19:30,Prime Time,3,12,6.05,36.97,8.62,5.36,2.02,37.4,33.5,29.1
+38,2024-09-16,Q3,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,3,12,7.24,42.76,9.65,6.11,2.36,21.4,36.1,42.5
+38,2024-09-16,Q3,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,3,12,2.44,43.12,3.21,0.83,0.64,21.8,33.0,45.2
+38,2024-09-16,Q3,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,3,12,5.37,55.49,6.76,1.26,0.79,28.4,30.1,41.5
+38,2024-09-16,Q3,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,3,12,6.41,40.56,8.82,5.61,2.1,26.2,29.9,43.9
+38,2024-09-16,Q3,Fútbol Total,Deportes,TUDN,21:00,Prime Time,3,12,5.65,36.56,7.45,5.76,2.08,37.7,27.3,35.0
+38,2024-09-16,Q3,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,3,12,4.03,47.97,6.08,3.02,1.04,33.5,29.1,37.4
+39,2024-09-23,Q3,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,3,13,8.72,47.51,12.24,5.95,2.08,29.7,31.6,38.7
+39,2024-09-23,Q3,Hoy,Magazine,Las Estrellas,09:00,Matutino,3,13,5.43,54.06,6.88,2.72,1.43,24.3,32.7,43.0
+39,2024-09-23,Q3,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,3,13,4.05,27.06,5.72,6.0,1.74,28.6,29.2,42.2
+39,2024-09-23,Q3,Exatlón México,Reality,TUDN,19:30,Prime Time,3,13,6.9,42.32,9.07,5.73,2.01,30.5,29.6,39.9
+39,2024-09-23,Q3,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,3,13,6.43,38.73,8.25,5.9,2.51,27.9,34.0,38.1
+39,2024-09-23,Q3,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,3,13,1.74,43.78,2.23,1.94,1.19,24.1,39.2,36.7
+39,2024-09-23,Q3,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,3,13,4.34,53.66,5.67,1.46,1.33,35.3,29.3,35.4
+39,2024-09-23,Q3,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,3,13,5.42,35.32,7.5,6.23,2.12,20.2,36.2,43.6
+39,2024-09-23,Q3,Fútbol Total,Deportes,TUDN,21:00,Prime Time,3,13,5.58,36.75,7.64,5.66,2.22,22.6,33.0,44.4
+39,2024-09-23,Q3,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,3,13,4.03,46.22,5.43,3.25,1.09,30.0,37.5,32.5
+40,2024-09-30,Q4,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,4,1,7.99,43.37,10.42,5.54,1.98,21.4,37.9,40.7
+40,2024-09-30,Q4,Hoy,Magazine,Las Estrellas,09:00,Matutino,4,1,5.31,55.07,8.42,3.62,1.44,28.7,31.9,39.4
+40,2024-09-30,Q4,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,4,1,3.25,24.63,4.6,6.06,2.21,37.2,33.6,29.2
+40,2024-09-30,Q4,Exatlón México,Reality,TUDN,19:30,Prime Time,4,1,7.09,42.22,9.51,5.72,2.33,34.2,31.3,34.5
+40,2024-09-30,Q4,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,4,1,7.19,46.33,9.97,5.88,2.1,28.1,39.5,32.4
+40,2024-09-30,Q4,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,4,1,1.9,31.87,2.94,1.19,0.88,36.0,34.3,29.7
+40,2024-09-30,Q4,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,4,1,4.8,63.07,6.23,1.84,0.99,21.8,37.7,40.5
+40,2024-09-30,Q4,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,4,1,6.02,37.2,8.33,5.54,2.19,28.7,31.0,40.3
+40,2024-09-30,Q4,Fútbol Total,Deportes,TUDN,21:00,Prime Time,4,1,5.72,35.98,8.2,6.08,2.17,27.9,29.7,42.4
+40,2024-09-30,Q4,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,4,1,4.79,51.63,6.11,2.73,0.95,24.4,36.7,38.9
+41,2024-10-07,Q4,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,4,2,7.67,44.09,10.04,5.68,1.72,30.2,26.7,43.1
+41,2024-10-07,Q4,Hoy,Magazine,Las Estrellas,09:00,Matutino,4,2,4.96,47.87,6.37,3.46,1.59,38.1,30.2,31.7
+41,2024-10-07,Q4,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,4,2,2.78,22.79,3.45,5.42,2.27,24.7,27.2,48.1
+41,2024-10-07,Q4,Exatlón México,Reality,TUDN,19:30,Prime Time,4,2,6.47,40.09,7.93,6.05,1.85,23.5,27.3,49.2
+41,2024-10-07,Q4,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,4,2,7.03,41.43,10.03,5.28,1.5,23.5,36.6,39.9
+41,2024-10-07,Q4,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,4,2,2.24,33.73,3.52,1.58,0.7,29.3,33.5,37.2
+41,2024-10-07,Q4,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,4,2,5.34,63.93,7.4,1.7,1.01,33.6,38.2,28.2
+41,2024-10-07,Q4,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,4,2,7.17,41.77,9.48,5.79,1.75,37.3,34.4,28.3
+41,2024-10-07,Q4,Fútbol Total,Deportes,TUDN,21:00,Prime Time,4,2,5.26,35.41,6.89,5.86,1.94,28.8,32.0,39.2
+41,2024-10-07,Q4,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,4,2,4.81,51.66,6.49,2.67,1.13,35.9,33.9,30.2
+42,2024-10-14,Q4,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,4,3,8.78,48.38,11.59,5.68,1.83,30.1,29.7,40.2
+42,2024-10-14,Q4,Hoy,Magazine,Las Estrellas,09:00,Matutino,4,3,5.06,49.5,7.18,3.31,1.44,20.8,30.5,48.7
+42,2024-10-14,Q4,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,4,3,3.79,28.03,5.27,5.76,2.15,21.5,38.0,40.5
+42,2024-10-14,Q4,Exatlón México,Reality,TUDN,19:30,Prime Time,4,3,6.35,42.53,8.52,6.37,2.29,32.3,32.6,35.1
+42,2024-10-14,Q4,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,4,3,7.89,43.1,10.69,5.88,1.98,31.6,39.3,29.1
+42,2024-10-14,Q4,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,4,3,1.92,33.52,3.07,1.44,0.71,29.0,37.1,33.9
+42,2024-10-14,Q4,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,4,3,4.7,55.29,5.77,0.58,0.69,26.4,32.1,41.5
+42,2024-10-14,Q4,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,4,3,5.48,36.47,7.34,5.62,2.39,39.2,31.8,29.0
+42,2024-10-14,Q4,Fútbol Total,Deportes,TUDN,21:00,Prime Time,4,3,6.03,37.73,8.39,5.34,2.31,39.6,26.3,34.1
+42,2024-10-14,Q4,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,4,3,4.1,45.89,5.11,2.18,1.26,20.8,35.6,43.6
+43,2024-10-21,Q4,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,4,4,8.66,48.09,11.34,6.25,1.86,30.5,34.1,35.4
+43,2024-10-21,Q4,Hoy,Magazine,Las Estrellas,09:00,Matutino,4,4,5.81,54.0,8.1,3.07,1.52,27.5,29.2,43.3
+43,2024-10-21,Q4,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,4,4,3.38,25.8,4.58,5.4,2.25,35.5,35.2,29.3
+43,2024-10-21,Q4,Exatlón México,Reality,TUDN,19:30,Prime Time,4,4,6.36,39.64,8.19,4.78,2.06,35.8,34.7,29.5
+43,2024-10-21,Q4,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,4,4,7.72,43.1,10.41,5.69,2.1,26.6,33.4,40.0
+43,2024-10-21,Q4,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,4,4,2.35,44.68,3.62,1.79,0.94,25.7,35.9,38.4
+43,2024-10-21,Q4,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,4,4,4.83,57.92,6.79,1.74,0.73,26.7,33.7,39.6
+43,2024-10-21,Q4,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,4,4,5.67,36.53,8.27,5.3,1.81,38.3,29.7,32.0
+43,2024-10-21,Q4,Fútbol Total,Deportes,TUDN,21:00,Prime Time,4,4,5.99,37.87,8.16,5.9,2.06,22.6,35.6,41.8
+43,2024-10-21,Q4,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,4,4,4.57,55.26,5.84,2.76,0.77,26.2,30.7,43.1
+44,2024-10-28,Q4,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,4,5,8.5,44.43,11.48,5.89,1.85,36.3,35.1,28.6
+44,2024-10-28,Q4,Hoy,Magazine,Las Estrellas,09:00,Matutino,4,5,4.7,47.42,6.22,3.71,1.51,32.9,31.4,35.7
+44,2024-10-28,Q4,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,4,5,3.21,24.44,4.53,6.26,2.42,20.4,29.6,50.0
+44,2024-10-28,Q4,Exatlón México,Reality,TUDN,19:30,Prime Time,4,5,6.2,39.76,7.87,5.71,2.19,26.8,36.5,36.7
+44,2024-10-28,Q4,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,4,5,7.28,42.72,9.7,5.86,1.93,24.5,27.1,48.4
+44,2024-10-28,Q4,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,4,5,2.64,49.47,3.64,2.31,0.8,25.9,36.8,37.3
+44,2024-10-28,Q4,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,4,5,4.63,58.23,6.18,2.05,0.36,33.2,38.1,28.7
+44,2024-10-28,Q4,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,4,5,6.3,40.94,8.4,5.63,2.22,31.9,27.3,40.8
+44,2024-10-28,Q4,Fútbol Total,Deportes,TUDN,21:00,Prime Time,4,5,4.98,33.18,7.53,5.25,2.14,36.6,36.6,26.8
+44,2024-10-28,Q4,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,4,5,3.92,45.41,5.3,2.54,1.2,34.4,25.7,39.9
+45,2024-11-04,Q4,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,4,6,9.1,48.39,12.57,5.28,1.91,33.5,28.6,37.9
+45,2024-11-04,Q4,Hoy,Magazine,Las Estrellas,09:00,Matutino,4,6,5.47,47.11,7.53,3.07,1.4,32.2,36.3,31.5
+45,2024-11-04,Q4,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,4,6,3.17,23.88,4.63,5.62,2.01,24.7,28.6,46.7
+45,2024-11-04,Q4,Exatlón México,Reality,TUDN,19:30,Prime Time,4,6,7.18,42.84,9.67,6.64,2.05,38.1,27.9,34.0
+45,2024-11-04,Q4,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,4,6,7.51,44.21,10.44,5.73,1.97,29.2,29.2,41.6
+45,2024-11-04,Q4,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,4,6,2.59,38.09,3.26,0.75,1.0,30.1,31.3,38.6
+45,2024-11-04,Q4,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,4,6,4.48,53.49,5.26,1.86,0.56,36.3,37.0,26.7
+45,2024-11-04,Q4,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,4,6,6.05,38.15,7.79,5.64,2.24,37.5,25.8,36.7
+45,2024-11-04,Q4,Fútbol Total,Deportes,TUDN,21:00,Prime Time,4,6,5.98,37.21,8.86,5.17,2.42,37.5,33.3,29.2
+45,2024-11-04,Q4,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,4,6,4.14,50.55,5.06,2.72,1.28,34.2,32.7,33.1
+46,2024-11-11,Q4,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,4,7,7.79,42.46,9.94,5.8,1.85,25.7,36.4,37.9
+46,2024-11-11,Q4,Hoy,Magazine,Las Estrellas,09:00,Matutino,4,7,5.44,48.21,7.18,2.16,1.44,29.0,32.7,38.3
+46,2024-11-11,Q4,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,4,7,3.68,26.9,5.46,5.37,2.24,21.8,38.7,39.5
+46,2024-11-11,Q4,Exatlón México,Reality,TUDN,19:30,Prime Time,4,7,7.46,45.57,10.2,5.6,2.08,37.7,39.0,23.3
+46,2024-11-11,Q4,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,4,7,7.73,44.72,10.17,5.81,1.88,21.1,32.5,46.4
+46,2024-11-11,Q4,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,4,7,1.68,30.44,1.81,1.77,0.89,27.7,26.2,46.1
+46,2024-11-11,Q4,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,4,7,4.16,56.82,6.09,1.11,0.71,20.6,39.0,40.4
+46,2024-11-11,Q4,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,4,7,6.51,38.98,8.69,5.56,2.38,35.8,27.1,37.1
+46,2024-11-11,Q4,Fútbol Total,Deportes,TUDN,21:00,Prime Time,4,7,6.48,38.64,8.78,5.48,1.93,38.3,32.1,29.6
+46,2024-11-11,Q4,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,4,7,4.26,47.5,6.31,3.06,0.8,35.2,32.0,32.8
+47,2024-11-18,Q4,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,4,8,8.14,46.67,10.84,5.9,2.5,38.1,25.3,36.6
+47,2024-11-18,Q4,Hoy,Magazine,Las Estrellas,09:00,Matutino,4,8,5.8,50.42,7.76,3.41,1.58,36.7,33.2,30.1
+47,2024-11-18,Q4,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,4,8,3.46,24.44,4.76,6.0,2.23,22.2,29.3,48.5
+47,2024-11-18,Q4,Exatlón México,Reality,TUDN,19:30,Prime Time,4,8,7.24,41.47,9.53,5.58,1.88,22.4,28.6,49.0
+47,2024-11-18,Q4,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,4,8,7.77,43.26,10.67,6.47,2.1,21.3,37.6,41.1
+47,2024-11-18,Q4,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,4,8,2.4,44.83,3.09,1.78,0.97,31.9,25.2,42.9
+47,2024-11-18,Q4,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,4,8,4.59,56.99,5.59,1.36,0.98,34.4,29.4,36.2
+47,2024-11-18,Q4,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,4,8,5.99,37.34,8.11,5.8,1.97,32.3,28.6,39.1
+47,2024-11-18,Q4,Fútbol Total,Deportes,TUDN,21:00,Prime Time,4,8,6.17,38.13,8.53,5.59,1.67,23.7,35.0,41.3
+47,2024-11-18,Q4,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,4,8,4.83,53.13,6.18,3.08,1.02,21.4,32.9,45.7
+48,2024-11-25,Q4,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,4,9,8.13,44.58,11.25,5.25,2.34,27.8,32.1,40.1
+48,2024-11-25,Q4,Hoy,Magazine,Las Estrellas,09:00,Matutino,4,9,5.42,50.96,7.37,2.49,1.48,39.6,28.8,31.6
+48,2024-11-25,Q4,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,4,9,2.93,24.31,3.35,6.25,1.97,27.1,26.0,46.9
+48,2024-11-25,Q4,Exatlón México,Reality,TUDN,19:30,Prime Time,4,9,6.94,42.13,8.69,5.35,2.35,34.7,34.4,30.9
+48,2024-11-25,Q4,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,4,9,7.6,44.38,10.32,6.0,2.32,22.7,30.3,47.0
+48,2024-11-25,Q4,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,4,9,2.63,44.2,3.02,1.33,0.85,36.3,27.6,36.1
+48,2024-11-25,Q4,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,4,9,4.84,61.57,6.67,1.48,0.81,39.6,32.2,28.2
+48,2024-11-25,Q4,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,4,9,5.59,36.6,7.18,6.16,2.31,36.2,25.9,37.9
+48,2024-11-25,Q4,Fútbol Total,Deportes,TUDN,21:00,Prime Time,4,9,5.41,36.69,6.7,5.54,2.08,20.7,28.0,51.3
+48,2024-11-25,Q4,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,4,9,3.66,47.54,4.54,2.88,1.11,37.7,29.7,32.6
+49,2024-12-02,Q4,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,4,10,8.38,45.87,11.09,5.69,2.43,30.3,39.8,29.9
+49,2024-12-02,Q4,Hoy,Magazine,Las Estrellas,09:00,Matutino,4,10,5.75,54.76,8.09,3.52,1.17,25.1,36.3,38.6
+49,2024-12-02,Q4,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,4,10,3.48,24.77,4.25,5.43,2.3,25.7,37.9,36.4
+49,2024-12-02,Q4,Exatlón México,Reality,TUDN,19:30,Prime Time,4,10,6.56,39.43,8.99,5.96,1.83,37.3,30.0,32.7
+49,2024-12-02,Q4,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,4,10,7.26,41.15,9.71,5.78,1.79,36.0,31.6,32.4
+49,2024-12-02,Q4,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,4,10,2.36,38.4,3.16,1.95,0.73,34.9,38.4,26.7
+49,2024-12-02,Q4,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,4,10,5.3,63.93,7.15,1.43,0.85,26.8,27.8,45.4
+49,2024-12-02,Q4,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,4,10,6.28,39.22,8.81,5.63,1.78,27.3,37.0,35.7
+49,2024-12-02,Q4,Fútbol Total,Deportes,TUDN,21:00,Prime Time,4,10,6.5,38.26,8.26,6.08,2.0,36.0,35.9,28.1
+49,2024-12-02,Q4,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,4,10,4.17,47.29,5.54,2.49,0.96,28.6,39.9,31.5
+50,2024-12-09,Q4,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,4,11,7.52,44.49,10.13,5.51,2.24,30.9,29.8,39.3
+50,2024-12-09,Q4,Hoy,Magazine,Las Estrellas,09:00,Matutino,4,11,5.3,50.91,7.25,3.4,1.49,26.6,29.4,44.0
+50,2024-12-09,Q4,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,4,11,3.59,26.09,5.04,5.3,2.27,32.1,31.4,36.5
+50,2024-12-09,Q4,Exatlón México,Reality,TUDN,19:30,Prime Time,4,11,7.4,44.0,10.01,6.07,2.06,27.0,25.6,47.4
+50,2024-12-09,Q4,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,4,11,7.98,42.08,10.46,5.25,2.16,32.3,31.5,36.2
+50,2024-12-09,Q4,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,4,11,2.21,39.5,3.56,0.96,0.94,21.5,34.6,43.9
+50,2024-12-09,Q4,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,4,11,4.96,53.22,7.49,1.19,0.69,30.3,36.2,33.5
+50,2024-12-09,Q4,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,4,11,6.06,38.68,8.16,5.81,1.72,39.1,27.1,33.8
+50,2024-12-09,Q4,Fútbol Total,Deportes,TUDN,21:00,Prime Time,4,11,5.98,38.74,7.88,6.38,1.85,20.7,26.0,53.3
+50,2024-12-09,Q4,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,4,11,4.75,52.14,6.3,3.12,1.17,27.2,39.2,33.6
+51,2024-12-16,Q4,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,4,12,7.96,43.63,10.61,5.56,1.88,32.1,35.2,32.7
+51,2024-12-16,Q4,Hoy,Magazine,Las Estrellas,09:00,Matutino,4,12,5.11,42.64,7.4,2.66,1.14,27.4,36.4,36.2
+51,2024-12-16,Q4,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,4,12,3.37,25.07,4.77,5.7,2.07,30.6,31.0,38.4
+51,2024-12-16,Q4,Exatlón México,Reality,TUDN,19:30,Prime Time,4,12,7.24,42.38,8.89,5.71,1.93,25.0,26.7,48.3
+51,2024-12-16,Q4,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,4,12,6.99,38.23,9.58,5.67,2.28,30.0,30.8,39.2
+51,2024-12-16,Q4,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,4,12,2.14,36.58,3.13,2.32,0.57,25.2,28.9,45.9
+51,2024-12-16,Q4,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,4,12,5.29,63.53,7.36,1.13,0.72,24.3,34.2,41.5
+51,2024-12-16,Q4,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,4,12,6.32,38.05,8.9,5.3,2.11,24.0,27.0,49.0
+51,2024-12-16,Q4,Fútbol Total,Deportes,TUDN,21:00,Prime Time,4,12,5.2,36.18,6.93,5.68,2.59,29.0,38.5,32.5
+51,2024-12-16,Q4,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,4,12,4.64,54.9,6.04,3.21,1.52,39.9,37.2,22.9
+52,2024-12-23,Q4,La Rosa de Guadalupe,Drama,Las Estrellas,20:00,Prime Time,4,13,8.14,47.88,11.74,5.96,1.93,33.4,35.6,31.0
+52,2024-12-23,Q4,Hoy,Magazine,Las Estrellas,09:00,Matutino,4,13,5.52,57.49,7.45,3.33,1.58,37.8,37.8,24.4
+52,2024-12-23,Q4,Netas Divinas,Talk Show,Unicable,21:00,Prime Time,4,13,2.92,22.88,3.57,5.9,1.92,35.9,32.6,31.5
+52,2024-12-23,Q4,Exatlón México,Reality,TUDN,19:30,Prime Time,4,13,6.33,40.49,8.81,6.14,2.05,39.7,36.9,23.4
+52,2024-12-23,Q4,Vencer el Pasado,Telenovela,Las Estrellas,21:30,Prime Time,4,13,6.94,43.33,9.25,5.78,2.62,35.8,25.4,38.8
+52,2024-12-23,Q4,Al Extremo,Entretenimiento,Las Estrellas,23:00,Late Night,4,13,1.87,30.65,2.92,1.61,1.15,29.3,39.7,31.0
+52,2024-12-23,Q4,Noticieros Televisa,Noticias,Las Estrellas,22:30,Late Night,4,13,4.76,56.3,6.4,1.99,1.02,32.2,26.3,41.5
+52,2024-12-23,Q4,Me Caigo de Risa,Comedia,Las Estrellas,20:30,Prime Time,4,13,6.22,40.49,8.32,5.48,2.09,28.0,35.8,36.2
+52,2024-12-23,Q4,Fútbol Total,Deportes,TUDN,21:00,Prime Time,4,13,6.36,39.92,8.57,5.82,2.27,30.5,36.5,33.0
+52,2024-12-23,Q4,Diseñando Tu Amor,Telenovela,Las Estrellas,18:00,Vespertino,4,13,3.41,44.83,4.69,3.28,1.0,22.5,29.8,47.7
